@@ -4,6 +4,7 @@
 #include <windows.h>
 
 
+int i=0;
 
 int board[10] = {2,2,2,2,2,2,2,2,2,2};
 int turn = 1,flag = 0;
